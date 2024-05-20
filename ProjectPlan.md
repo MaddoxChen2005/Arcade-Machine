@@ -41,11 +41,11 @@ while pygame.mixer.music.get_busy() == True:
   - Make sure the joystick works how intended
   - Make sure buttons are programmed for the right purpose
   - Find a simple program to test controls
-## Step 2 - Build case (5)
+## Step 3 - Build case (5)
 - Make measurements
 - Trace out cardboard
 - box cutter
-## Step 3 - Make a game (8)
+## Step 4 - Make a game (8)
 - learn how to program a simple program using Gadot
 - Run Gadot engine on Raspberry Pi
 - Potentially use RetroPie

@@ -1,6 +1,6 @@
 # Arcade Project Plan - Set up for Galaga
 
-## Step 1 (1)
+## Step 1 - Download Emulator (1)
 - Download Mame to Raspberry Pi to play games
 ## Step 2 - Assemble Hardware (3)
 Materials: 

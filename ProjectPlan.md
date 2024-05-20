@@ -2,7 +2,6 @@
 
 ## Step 1 (1)
 - Download Mame to Raspberry Pi to play games
-- 
 ## Step 2 - Assemble Hardware (3)
 Materials: 
 - Buttons
